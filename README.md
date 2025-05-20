@@ -2,7 +2,7 @@
 
 ---
 
-High-throughput, OpenAI-compatible text embedding & reranker powered by [Infinity](https://github.com/michaelfeil/infinity)
+High, OpenAI-compatible text embedding & reranker powered by [Infinity](https://github.com/michaelfeil/infinity)
 
 ---
 
